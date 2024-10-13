@@ -18,7 +18,7 @@ This task involves processing an image to extract a blue circle using OpenCV.
 ## Images
 
 Original Image:
-![Original Image]("Task 1/IMG-0044-00001.jpg")
+![Original Image]("Task%201/IMG-0044-00001.jpg")
 
 Extracted Blue Circle:
 ![Extracted Blue Circle](Extracted.jpg)
