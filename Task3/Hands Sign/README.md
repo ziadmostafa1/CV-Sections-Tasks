@@ -11,7 +11,7 @@ The application recognizes 45 different sign language gestures, including letter
 
 Users can either upload an image or use a webcam feed to classify the sign language gesture, with the model displaying predictions and confidence scores.
 
-![alt text](demo_split-1.gif)
+![](demo_split-1.gif)
 
 ## Table of Contents
 
