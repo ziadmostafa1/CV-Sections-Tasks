@@ -11,7 +11,7 @@ The application recognizes 45 different sign language gestures, including letter
 
 Users can either upload an image or use a webcam feed to classify the sign language gesture, with the model displaying predictions and confidence scores.
 
-![alt text](demo_split-1.gif)
+![](demo_split-1.gif)
 
 ## Table of Contents
 
@@ -104,6 +104,8 @@ The trained model achieved an accuracy of approximately **96.5%** on the validat
 
 ## Visualization
 
-The training history for accuracy and loss is plotted to visualize model improvement over epochs.
+The training history for accuracy and loss is plotted to visualize model improvement over epochs. A confusion matrix provides insights into the model's performance across different classes.
 
-![alt text](output.png)
+---
+
+Let me know if you want to add any specific details or images for visualization!
