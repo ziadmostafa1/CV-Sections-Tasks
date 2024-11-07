@@ -3,6 +3,9 @@
 ## Overview
 The Egyptian Hieroglyph Classifier is a machine learning project designed to classify images of Egyptian hieroglyphs. The project leverages various deep learning models to achieve high accuracy in identifying different hieroglyphic symbols.
 
+## Hugging Face App
+You can try out the Egyptian Hieroglyph Classifier using the [Hugging Face App](https://huggingface.co/spaces/ziadmostafa/Egyptian-Hieroglyphs-Classification).
+
 ## Models Used
 The project compares the performance of several deep learning models, including:
 - Simple CNN
