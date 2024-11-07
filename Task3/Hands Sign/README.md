@@ -104,8 +104,6 @@ The trained model achieved an accuracy of approximately **96.5%** on the validat
 
 ## Visualization
 
-The training history for accuracy and loss is plotted to visualize model improvement over epochs. A confusion matrix provides insights into the model's performance across different classes.
+The training history for accuracy and loss is plotted to visualize model improvement over epochs. 
 
----
-
-Let me know if you want to add any specific details or images for visualization!
+![alt text](output.png)
