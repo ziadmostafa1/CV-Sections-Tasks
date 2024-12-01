@@ -1,6 +1,6 @@
-ultralytics>=8.3.27
-streamlit>=1.28.0
+ultralytics
+streamlit
 opencv-python-headless
-numpy>=1.24.0
+numpy
 libgl1
 libglib2.0-0
